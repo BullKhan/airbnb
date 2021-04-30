@@ -1,3 +1,3 @@
 # airbnb
 
-https://bullkhan.github.io/airbnb/
+https://bullkhan.github.io/airbnb/#/
